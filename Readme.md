@@ -1,3 +1,7 @@
+PLEASE CHECK THAT ALL THE FILES ARE DOWNLOADED BECAUSE WITHOUT THEM THE GAME WON'T WORK ALSO YOU HAVE TO RUN THIS GAME USING THE WEB SERVER FOR CHROME(https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related?hl=en)
+
+
+
 This is underworld warrior.(play with W A S D)
 You play as the main charachter whose world has been plagued by a monster from the beneath.
 Having no choice you enter the  dark Underworld and embark on a treacherous journey to defeat the monster.
