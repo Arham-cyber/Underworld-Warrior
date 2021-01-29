@@ -17,7 +17,7 @@ You are faced by an onslaught of barriers that will crush as soon they touch you
 You have to use the wierd physics to your advantage and dodge these lethal barriers to meet the boss*.
 
 
-*If you are not able to pass 1st barrier not that you have to jump and teleport to the other side to have a greater height than the barrier
+*If you are not able to pass 1st barrier note that you have to jump and teleport to the other side to have a greater height than the barrier
 
 Level3
 Finally you meet the boss!!
